@@ -2,3 +2,4 @@ Initializing Feature3.
 Work in progress.
 Another line.
 Fixind newest master.
+Exteding feature 3 in 0.3.
