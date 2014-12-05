@@ -5,3 +5,4 @@ Fixind newest master.
 Exteding feature 3 in 0.3.
 This feature should be in master too.
 Just another change for master too.
+And just another one.
